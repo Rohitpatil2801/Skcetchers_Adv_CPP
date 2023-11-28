@@ -7,7 +7,7 @@ This assignment involves file handling in C++ to read and process triangle data 
 
 1. **Implemented `getline()` function in `getTriangles()`  in location `/Ex3/src/Reader.cpp`**.
 
-2. **Implemented `if condition` logic to read only `vertex`  value from `.stl` file in location `Ex3/src/Reader.cpp`**.
+2. **Implemented `if condition` logic to read only `vertex`  value from `.stl` file in location `/Ex3/src/Reader.cpp`**.
 
 3. **Used an `istringstream` to parse the string in location `/Ex3/src/Reader.cpp`**.
 
