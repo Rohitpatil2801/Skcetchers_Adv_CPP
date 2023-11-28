@@ -43,7 +43,7 @@ Involves the use of sequential containers such as list, vector, and deque.
 ### Overview
 Involves the use of sequential container deque and string concatenation.
 
-## Assignment 11 - Use of `std::map`
+## Assignment 11 - Use of Map.
 ### Overview
 Uses `std::map` container in C++ STL to store a pair of `<Triangle, double>` where `Triangle` is an object of class `Triangle` referenced from the `mtriangles` vector of triangulation, and `double` is the perimeter of the triangle.
 
